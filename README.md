@@ -2,10 +2,13 @@
 
 # Hi, I'm Prince Raj 👋
 
-### Final-year Computer Science & Engineering student · Building practical software, one project at a time.
+### Frontend-focused MERN Developer · Building responsive, component-driven web experiences
 
 <a href="https://github.com/PrinceRajDev">
   <img src="https://img.shields.io/badge/GitHub-PrinceRajDev-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/prince-raj2003">
+  <img src="https://img.shields.io/badge/LinkedIn-Prince%20Raj-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 </div>
@@ -14,31 +17,53 @@
 
 ## About me
 
-I'm a Computer Science & Engineering student based in Punjab, India. I enjoy learning by building — from Java exercises and web interfaces to practical applications such as chat and hospital-management systems.
+I'm a frontend-focused MERN developer and B.Tech Computer Science & Engineering student (Class of 2026). I build responsive React interfaces, connect them to REST APIs, and turn requirements into clean, practical user experiences.
 
-- 🎓 Final-year CSE student
-- 🌱 Exploring software development through hands-on projects
-- 💬 Happy to connect, collaborate, and learn with other developers
+- 🔭 Currently working as a **Frontend Intern at Zealthix Technologies**
+- 🌱 Strengthening my skills in **React, Node.js, Express, MongoDB, and API integration**
+- 🛠️ I use AI-assisted development tools thoughtfully for faster debugging, code improvement, and documentation
 
-## What I'm working with
+## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,python,git,github&theme=dark" alt="Java, JavaScript, HTML, Python, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,linux&theme=dark" alt="HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL, Java, Python, Git, GitHub and Linux" />
 </p>
 
-## Selected work
+## Experience
 
-| Project | What it shows |
-| --- | --- |
-| [Chat Application](https://github.com/PrinceRajDev/Chat-application) | A JavaScript-based application project |
-| [Hospital Management System](https://github.com/PrinceRajDev/HMS) | An HTML-based management-system project |
-| [Java Patterns](https://github.com/PrinceRajDev/java-pattern) | Java programming practice |
-| [Prince.py](https://github.com/PrinceRajDev/Prince.py) | Python learning and experimentation |
+**Frontend Intern · Zealthix Technologies**  
+*September 2026 - Present*
 
-> I believe the best way to learn software development is to build, improve, and share.
+- Resolve UI issues and style reusable components for consistent, responsive layouts.
+- Design and implement application pages that turn requirements into usable interfaces.
+- Debug frontend issues and verify fixes with the development team.
 
-## Let’s connect
+## Featured projects
 
-<a href="https://github.com/PrinceRajDev">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github" alt="Follow Prince Raj on GitHub" />
-</a>
+### CareerGuideAI - AI-powered career guidance platform
+`MongoDB` `Express.js` `React.js` `Node.js` `Groq API`
+
+- Built responsive React interfaces for real-time, personalized career recommendations.
+- Integrated Llama 3.3 through scalable Node.js and Express backend APIs.
+
+### GaonBazaar - Rural e-commerce platform
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+- Connected farmers and local vendors directly with buyers through product listings and authentication.
+- Improved usability and performance with secure backend integration and optimized rendering.
+
+### ChatSphere - Multi-client chat application
+`Java` `Multithreading` `Socket Programming`
+
+- Built a real-time Java chat application that broadcasts messages to concurrent clients using synchronized threads.
+
+## Beyond the code
+
+- 🎓 B.Tech, Computer Science & Engineering — Lovely Professional University (2022-2026)
+- ☁️ Certifications: Cloud Computing (NPTEL), Full Stack Development Using MERN Stack (Cipher School), Server Side JavaScript with Node.js (Coursera)
+
+<div align="center">
+
+*Always learning, building, and improving.*
+
+</div>
